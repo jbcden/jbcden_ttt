@@ -6,6 +6,7 @@ require 'jbcden_ttt/version'
 Gem::Specification.new do |spec|
   spec.name          = "jbcden_ttt"
   spec.version       = JbcdenTtt::VERSION
+  spec.date          = %q{2014-11-18}
   spec.authors       = ["Jacob Chae"]
   spec.email         = ["jbcden@gmail.com"]
   spec.summary       = %q{A basic command line based game of tic tac toe.}
