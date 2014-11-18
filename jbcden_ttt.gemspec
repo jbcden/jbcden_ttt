@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jacob Chae"]
   spec.email         = ["jbcden@gmail.com"]
   spec.summary       = %q{A basic command line based game of tic tac toe.}
-  spec.homepage      = "https://github.com/jbcden/tic-tac-toe"
+  spec.homepage      = "https://github.com/jbcden/jbcden_ttt"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
