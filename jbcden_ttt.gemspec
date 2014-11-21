@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{A basic command line based game of tic tac toe.}
   spec.homepage      = "https://github.com/jbcden/jbcden_ttt"
   spec.license       = "MIT"
+  spec.required_ruby_version = '>=1.9.3'
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = ["ttt"]
